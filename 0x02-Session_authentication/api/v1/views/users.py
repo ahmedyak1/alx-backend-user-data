@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Module of Users views
+"""Users views
 """
 from flask import abort, jsonify, request
 
