@@ -1,5 +1,5 @@
-a#!/usr/bin/env python3
-"""Flask App with user authentication features.
+#!/usr/bin/env python3
+"""Simple Flask app with user authentication features.
 """
 import logging
 
@@ -142,5 +142,3 @@ def update_password() -> str:
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port="5000")
-
-
