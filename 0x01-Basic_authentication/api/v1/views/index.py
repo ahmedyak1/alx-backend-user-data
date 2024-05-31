@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module  Index Views.
+"""Module of Index Views.
 """
 from flask import jsonify, abort
 from api.v1.views import app_views
